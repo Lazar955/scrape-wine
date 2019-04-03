@@ -8,7 +8,8 @@
 <h3><a id="Installation_9"></a>Installation</h3>
 <p>Requires <a href="https://nodejs.org/">Node.js</a> v8+ to run.</p>
 <p>Install the dependencies</p>
-<p>$ cd into dir<br>
+<p>$ cd into scrape-wine<br>
+<p>$ mkdir data<br>
 $ npm install<br>
 $ node main.js</p>
 <pre><code>License
